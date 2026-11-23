@@ -1,1 +1,1 @@
-# convolutional_neural_networks
+# CNNs
